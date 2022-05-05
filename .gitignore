@@ -1,5 +1,6 @@
 plots/
 plots_esm42/
 temp_files/
+InProgress*
 .ipynb_checkpoints
 .ipynb_checkpoints/*
